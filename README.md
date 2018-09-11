@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-- [Actividad1](#act1)
-- [Actividad2](#act2)
-- [Actividad3](#act3)
-- [Actividad4](#act4)
+- [Actividad 1](#act1)
+- [Actividad 2](#act2)
+- [Actividad 3](#act3)
+- [Actividad 4](#act4)
