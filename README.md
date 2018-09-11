@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-- [Updating to New Releases](#updating-to-new-releases)
-- [Sending Feedback](#sending-feedback)
-- [Folder Structure](#folder-structure)
-- [Available Scripts](#available-scripts)
+- [Actividad1](#act1)
+- [Actividad2](#act2)
+- [Actividad3](#act3)
+- [Actividad4](#act4)
