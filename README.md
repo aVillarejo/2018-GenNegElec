@@ -1,6 +1,12 @@
 # 2018-GenNegElec
 # Documentacion para proyecto Generacion de Negocios Electronicos
 
+## Integrantes
+
+* Profesor: Ing. Miguel Ángel Gallardo Lemus.
+* Integrantes del equipo:
+    1. Mario Alberto Villarejo Estrada.
+    2. Miguel Angel Santiago O’Connor
 
 ## Table of Contents
 
