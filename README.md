@@ -46,10 +46,9 @@ Modelo de retribución económicas
 
 El único pago que realizará el usuario será de 2.5 dolares por la descarga de la aplicación. No se cobrará por nivel o avance.
 
-
+## Iteración 1
 ![Iteracion_1](https://raw.githubusercontent.com/aVillarejo/2018-GenNegElec/gh-pages/1.png)
 
-## Iteración 1
 La idea original de la plataforma era para ofertar cursos únicamente del idioma japonés a través de una aplicación móvil. Se orientaba para personas con poco tiempo.
 Se pensaba que había un interés muy grande por parte de la audiencia.
 
@@ -60,11 +59,13 @@ Resultados de la iteración
 Se obtuvo una métrica resultante de 10, por lo tanto no se alcanzo la métrica meta. 
 Por otra parte, la retro alimentación por parte del cliente reveló que hay gran cantidad de usuarios interesados en aprender inglés y francés por fines profesionales y laborales. También necesitan algún certificado oficial que avale la competencia de estos idiomas.
 
-![Iteracion_2](https://raw.githubusercontent.com/aVillarejo/2018-GenNegElec/gh-pages/2.png)
-![Iteracion_3](https://raw.githubusercontent.com/aVillarejo/2018-GenNegElec/gh-pages/3.png)
-## Iteración 2
-Aplicando el aprendizaje generado por el cliente, se agregó el idioma inglés a la aplicación, junto con el japonés.  
 
+## Iteración 2
+![Iteracion_2](https://raw.githubusercontent.com/aVillarejo/2018-GenNegElec/gh-pages/2.png)
+
+![Iteracion_3](https://raw.githubusercontent.com/aVillarejo/2018-GenNegElec/gh-pages/3.png)
+
+Aplicando el aprendizaje generado por el cliente, se agregó el idioma inglés a la aplicación, junto con el japonés. 
 Objetivos de la iteración
 Determinar al menos un 80% de usuarios dispuestos a instalar y utilizar la aplicación (de una métrica meta de 20 ).
 
@@ -72,9 +73,9 @@ Resultados de la iteración
 En esta iteración se pudo completar una métrica resultante de 18 de 20. Ya que la mayoría de los usuarios están mas interesados en el idioma inglés.
 También se detectó que existe una gran audiencia de los usuarios sin interés en los idiomas pero con la necesidad de un certificado. Así como que también hay personas que quieren desarrollar habilidades de conversación en inglés o japonés sin profundizar en la gramática o lectura.
 
-
-![Iteracion_3](https://raw.githubusercontent.com/aVillarejo/2018-GenNegElec/gh-pages/4.png)
 ## Iteración 3
+![Iteracion_3](https://raw.githubusercontent.com/aVillarejo/2018-GenNegElec/gh-pages/4.png)
+
 En esta parte se dio mucho énfasis a la posibilidad de obtener un certificado de competencia lingüística avalado por la SEP, en ambos idiomas.
 Así como los beneficios de aprendizaje al ritmo del usuario, bajos precios, y material de calidad.
 
