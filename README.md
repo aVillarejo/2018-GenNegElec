@@ -7,13 +7,15 @@
 * Integrantes del equipo:
     1. Mario Alberto Villarejo Estrada.
     2. Miguel Angel Santiago O’Connor
+    3. Mario Abelardo Flores Vidal
 
 ## Table of Contents
 
-- [Actividad 1](#act1)
-- [Actividad 2](#act2)
-- [Actividad 3](#act3)
-- [Actividad 4](#act4)
+- [Introduccion a JapanEnglish ](#intro)
+- [Iteracion 1](#act1)
+- [Iteracion 2](#act2)
+- [Iteracion 3](#act3)
+- [Iteracion 4](#act4)
 
 
 ## Actividad 1
@@ -23,37 +25,34 @@ Create App is divided into two packages:
 * `create-react-app` is a global command-line utility that you use to create new projects.
 * `react-scripts` is a development dependency in the generated projects (including this one).
 
+
 You almost never need to update `create-react-app` itself: it delegates all the setup to `react-scripts`.
 
 When you run `create-react-app`, it always creates the project with the latest version of `react-scripts` so you’ll get all the new features and improvements in newly created apps automatically.
 
 
-JapanEnglish
+# JapanEnglish
 
-¿Qué es?
+## ¿Qué es?
 Es una aplicación móvil para Android la cual facilita a los Estudiantes del idioma Inglés o japonés un aprendizaje constante y seguro de vocabulario, gramática y conocimientos prácticos, a partir de lecciones reducidas y prácticas. 
 Está orientada a personas con poco tiempo para aprender idiomas, pero con la necesidad de adquirir habilidades prácticas de comunicación.
 
-¿Qué servicios ofrece?
+## ¿Qué servicios ofrece?
 1. Mejoramiento de la comunicación de inglés y japonés: Los usuarios podrán aprender bases solidad de los idiomas, tales como vocabulario y gramática, con el objetivo de desarrollar habilidades comunicativas de forma práctica.
 
 2. Evaluación de las habilidades lingüísticas y medición de progreso: Cada usuario evaluará su progreso con pruebas prácticas y se la hará un perfil de progreso en done se destaquen sus áreas fuertes y débiles para reforzar su entrenamiento lingüístico.
 
-¿Quiénes son los clientes potenciales?
+## ¿Quiénes son los clientes potenciales?
 Personas trabajadoras con poco tiempo de estudiar idiomas con interés de desarrollar habilidades comunicativas con un enfoque práctico.
 
 
 
-
-
-
-
-Fechas de las Iteraciones:
+## Fechas de las Iteraciones:
 
     Iteración 1: 24/09/2018 - 30/09/2018 
     Iteración 2: 01/10/2016 - 14/10/2016 
     Iteración 3: 15/10/2016 - 21/10/2016 
-   
+  
 
 Modelo de retribución económicas
 
