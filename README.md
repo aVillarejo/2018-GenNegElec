@@ -8,6 +8,7 @@
     1. Mario Alberto Villarejo Estrada.
     2. Miguel Angel Santiago O’Connor
     3. Mario Abelardo Flores Vidal
+    4. Jose Ramiro Ortiz Ramos
 
 ## Table of Contents
 
